@@ -73,6 +73,7 @@ jobs:
                   prerelease: false
 
             - name: Publish to Thunderstore
+              continue-on-error: true
               run: |
                   cd thunderstore
                   tcli publish --token ${{ secrets.THUNDERSTORE_TOKEN }}
