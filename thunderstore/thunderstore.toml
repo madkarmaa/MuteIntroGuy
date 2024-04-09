@@ -4,8 +4,8 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "madkarma"
 name = "MuteIntroGuy"
-versionNumber = "1.0.0"
-description = "Get mogged by landmines"
+versionNumber = "1.0.1"
+description = "Mute the intro speech when starting a new lobby"
 websiteUrl = "https://github.com/madkarmaa/MuteIntroGuy"
 containsNsfwContent = false
 [package.dependencies]
