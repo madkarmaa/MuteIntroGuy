@@ -6,6 +6,7 @@
 thunderstore/*.dll
 thunderstore/assets/
 build/
+token.txt
 
 # User-specific files
 *.rsuser
